@@ -1,0 +1,63 @@
+{
+  "main": {
+    "name": "Shivalingappa S",
+    "occupation": "I have done Journalism, looking for opportunities in media organization",
+    "description": "",
+    "image": "profilepic2.jpg",
+    "bio": "Hi there, I am Shivalingappa Shilavant. I am a fresher and looking for great opportunities. I have worked as an intern in Deccan Chronicle as a crime reporter and Asianet Suvarna News in editorial department",
+    "contactmessage": "Get in touch with me!",
+    "email": "shivushilavant7@gmail.com",
+    "phone": "+91 9606587182",
+    "address": {
+      "street": " Venkateshwara nilaya, 2nd Main Marenhalli, Vijayanagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560040"
+    },
+    "website": "https://www.linkedin.com/in/shivu-shilavant-b13768179/",
+    "resumedownload": "https://drive.google.com/file/d/1Fa2r0asha1Dosf8ycWoGhVwuQM16LHSM/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shivu.shilavant.56/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shivu-shilavant-b13768179/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/smudge_8002/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Bangalore University - Bangalore",
+        "degree": "BA (Journalism)",
+        "graduated": "January 2020",
+        "description": "Graduated with distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Deccan Chronicle",
+        "title": "Intern",
+        "years": "Dec 2017",
+        "description": "Intern."
+      }
+    ],
+    "skills": []
+  },
+  "portfolio": {
+    "projects": []
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
